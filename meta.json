@@ -1,0 +1,23 @@
+{
+ "name": "sed",
+ "version": "4.9",
+ "license": "GPL-3.0-or-later",
+ "homepage": "",
+ "licenses": [
+  "LICENSE",
+  "NOTICE.txt"
+ ],
+ "sources": [
+  "sed-4.9.tar.xz"
+ ],
+ "desc": "GNU sed 4.9",
+ "file": "sed-4.9.tpkg",
+ "size": 69256,
+ "sha256": "10352c74c00e9944880e53d15c30c79d374b4524549b83770e30504997ea1af5",
+ "unpacked": 117320,
+ "min_build": 619,
+ "depends": [],
+ "commands": {
+  "sed": "bin/sed"
+ }
+}
